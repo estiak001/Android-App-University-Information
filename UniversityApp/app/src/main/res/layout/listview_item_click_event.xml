@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="wrap_content">
+
+    <LinearLayout
+
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background2"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:weightSum="1"
+
+    >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/university_students"
+        android:scaleType="fitXY"
+        />
+
+
+    <ListView
+
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:isScrollContainer="false"
+        android:layout_marginTop="10dp"
+        android:dividerHeight="2dp"
+
+        >
+
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:id="@+id/main_page_image"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/noticeId"
+                    android:layout_width="150dp"
+                    android:layout_height="100dp"
+                    android:text="Notice"
+                    android:background="#97d3ec"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    />
+                <Button
+                    android:id="@+id/tipsID"
+                    android:layout_width="150dp"
+                    android:layout_height="100dp"
+                    android:text="Tips"
+                    android:layout_below="@id/noticeId"
+                    android:background="#63c1e9"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    />
+                    <Button
+                        android:id="@+id/importentID"
+                        android:layout_width="150dp"
+                        android:layout_height="100dp"
+                        android:layout_marginLeft="150dp"
+                        android:text="Importent Dates"
+                        android:background="#248fbc"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+
+                        />
+                    <Button
+                        android:layout_below="@id/importentID"
+                        android:id="@+id/moreID"
+                        android:layout_width="150dp"
+                        android:layout_height="100dp"
+                        android:text="More"
+                        android:background="#06a2e2"
+                        android:layout_marginLeft="150dp"
+                        android:textSize="20sp"
+                        android:textStyle="bold"
+                        />
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+</ScrollView>

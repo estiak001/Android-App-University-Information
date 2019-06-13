@@ -1,0 +1,481 @@
+<resources>
+    <string name="app_name">VersityBD</string>
+
+
+    <string name="du_info">The University of Dhaka (Bengali: ঢাকা বিশ্ববিদ্যালয়, also known as Dhaka University or simply DU) is the oldest university in modern Bangladesh. The university is ranked number one on the Bangladesh University Ranking 2017.[4] Established in 1921 during the British Raj, it has made significant contributions to the modern history of Bangladesh.[5][6][7][8] After the Partition of India, it became the focal point of progressive and democratic movements in Pakistan. Its students and teachers played a central role in the rise of Bengali nationalism and the independence of Bangladesh.</string>
+
+    <string-array name="university_tye">
+
+        <item>Public University</item>
+        <item>Private University</item>
+        <item>National University</item>
+
+    </string-array>
+
+    <string-array name="public_university">
+        <item> Dhaka University </item>
+
+        <item> Jagannath University </item>
+        <item> Jahangirnagar University </item>
+        <item> BUET </item>
+    </string-array>
+
+    <string-array name="du_department">
+        <item>Faculty of Arts</item>
+        <item>Faculty of Business Studies</item>
+        <item>Faculty of Biological Science</item>
+        <item>Faculty of Engineering and Technology</item>
+        <item>Faculty of Education</item>
+        <item>Faculty of Law</item>
+        <item> Faculty of Fine Arts</item>
+        <item>Faculty of Medicine</item>
+        <item>Faculty of Pharmacy</item>
+        <item>Faculty of Science</item>
+        <item>Faculty of Social Sciences</item>
+        <item>Faculty of Earth and Environmental Sciences</item>
+
+    </string-array>
+
+    <string name="jnu_about">
+        The university has a history that started in 1858 when Dhaka Brahma School was founded by Dinanath Sen, Prabhaticharan Roy, Anathbandhu Mallik and Brajasundar Kaitra. The name Jagannath School was given by Kishorilal Chowdhury, the Zamindar of Baliati in Manikganj, who took over the school in 1872 and renamed it after his father.
+In 1884, it was raised to a second grade college. Law was one of the first courses introduced. A common management committee administered the school and college until 1887, when the school section was separated to form the independent Kishore Jubilee School. It is now known as K L Jubilee School. The administration of the college was transferred to a board of trustees in 1907. In the following year, it became a first grade college.
+    </string>
+
+    <string name="jnu_department">
+        Faculty of Arts,
+        Faculty of Science,
+        Faculty of Social Science,
+        Faculty of Business Studies,
+        Faculty of Law,
+        Faculty of Life and Earth Sciences,
+        Institute of Modern Language,
+        Institute of Education and Research,
+    </string>
+
+    <string name="jnu_admission">
+
+Interested candidates have to passed SSC or equivalent examination in 2015 2016,
+Interested candidates have to passed HSC or equivalent examination in 2018
+Unit -1: Science ⇒ For General Science, Alim Science, Vocational Science ⇒ interested candidates have to get total CGPA 8.00 in SSC or equivalent examination  HSC or equivalent examination both. And have to get individually at least CGPA 3.00 in SSC  HSC examination both.
+
+Unit -2: Humanities ⇒ For Humanities, Music, Home Economics, Marsahsa (General), Madrasha (Mujabibod) ⇒ interested candidates have to get total CGPA 7.50 in SSC or equivalent examination  HSC or equivalent examination both. And have to get individually at least CGPA 3.00 in SSC  HSC examination both.
+
+Unit -3: Business Studies ⇒ For Commerce, Diploma in Business Studies, Business management, Diploma in Course ⇒ interested candidates have to get total CGPA 8.00 in SSC or equivalent examination  HSC or equivalent examination both. And have to get individually at least CGPA 3.00 in SSC  HSC examination both.
+    </string>
+
+
+    <string name="du_admittion_date">
+
+   আবেদনের শেষ তারিখ: ২৮ আগস্ট, ২০১৮ (দুপুর ২:০০ টা)
+    টাকা জমা দেয়ার শেষ তারিখ: ২৮ অগাস্ট, ২০১৮ (বিকাল ৪:০০ টা )
+    ক-ইউনিট পরীক্ষা: ২৮ সেপ্টেম্বর, ২০১৮ (সকাল ১০:০০টা)
+    খ-ইউনিট পরীক্ষা: ২১ সেপ্টেম্বর, ২০১৮ (সকাল ১০:০০টা)
+    গ-ইউনিট পরীক্ষা: ১৪ সেপ্টেম্বর, ২০১৮ (সকাল ১০:০০টা)
+    ঘ-ইউনিট পরীক্ষা: ১২ অক্টোবর, ২০১৮ (সকাল ১০:০০টা)
+    চ -ইউনিট পরীক্ষা (সাধারণ জ্ঞান ): ১৫ সেপ্টেম্বর, ২০১৮ (সকাল ১০:০০টা)
+    চ -ইউনিট পরীক্ষা (অংকন): ২২ সেপ্টেম্বর, ২০১৮ (সকাল ১০:০০টা)
+
+    </string>
+
+    <string name="juha_about">
+        Jahangirnagar University (Bengali: জাহাঙ্গীরনগর বিশ্ববিদ্যালয় Jahangirnôgôr Bishwôbidyalôy, University Acronym: জাবি or JU) is a public university in Bangladesh, based in Savar Upazila, Dhaka.[2] It is the only fully residential[3] university in Bangladesh.[2]
+
+The university was established in 1970 by the Jahangirnagar Muslim University Ordinance of the government of Pakistan. Its first vice-chancellor, Mafiz Uddin Ahmad (PhD in chemistry, University of Illinois, Chicago) took up office on 24 September 1970. The first group of students, a total of 150, were enrolled in four departments: Economics, Geography, Mathematics, and Statistics. Its formal inauguration was delayed until 12 January 1971, when the university was launched by Rear Admiral S. M. Ahsan, the chancellor.
+
+It operated as a project until 1973, when the 'Jahangirnagar Muslim University Act' was amended as the 'Jahangirnagar University Act'.
+
+In 2014, the university had 16,781 students, 755 teachers, and 1,430 other employees. On 2 March 2014, Farzana Islam, a professor of the Anthropology Department, was appointed the vice-chancellor of JU, marking the country's first woman to hold the position.
+    </string>
+    <string name="juha_department">
+
+Department of physics
+
+Old arts building
+
+Department of Chemistry
+
+
+Faculty of Mathematical and Physical Science
+
+Department of Computer Science and Engineering
+Department of Environmental sciences
+Department of Physics
+Department of Chemistry
+Department of Statistics
+Department of Mathematics
+Department of Geological Science
+Faculty of Biological Science
+
+Department of Botany
+Department of Zoology
+Department of Biochemistry Molecular Biology
+Department of Microbiology
+Department of Pharmacy
+Department of Public Health  Informatics
+Department of Biotechnology Genetic Engineering (www.bgeju.edu.bd)
+
+Faculty of Business Studies
+Faculty of Social Science
+
+Department of Anthropology
+Department of Economics
+Department of Government and Politics[13]
+Department of Geography and Environment
+Department of Public Administration
+Department of Urban and Regional Planning
+Faculty of Arts and Humanities
+
+Department of Archaeology
+Department of Bangla
+Department of Drama and Dramatics
+Department of English[14]
+Department of Fine Arts
+Department of History
+Department of International Relations
+Department of Journalism Media Studies
+Department of Philosophy
+Faculty of Business Studies
+
+Department of Accounting and Information Systems
+Department of Finance  Banking
+Department of Marketing
+Department of Management Studies
+Faculty of Law
+
+Department of Law  Justice
+    </string>
+
+    <string name="juha_admission">
+JU Admission Test Result 2018-19 has been published  found here. JU Admission Test Detailed Seat Plan  Routine 2018-19 has been published  found here. Jahangirnagar University (JU) admission test 2018-19  will be held from 30 September to 10 October 2018. Jahangirnagar University All Unit Admission Test Result 2018-19 Published here in due time. JU Online Admission Application starting from 17 August 2018 and end on 16 September 2018. Jahangirnagar University Admission Test Result has been published  found here. The admission test of Jahangirnagar University (JU) for the first year honors academic session 2018-19  under 8 different units i.e. A, B, C, D, E, F, G  H. from 30 September to 10 October 2018.
+    </string>
+
+    <string name="buet_about">
+        Bangladesh University of Engineering and Technology, commonly known as BUET, is a public university in Bangladesh, which focuses on the study of engineering and architecture. Founded in 1912, it is the oldest institution for the study of engineering, architecture and urban planning in Bangladesh.
+    </string>
+    <string name="buet_department">
+        Bangladesh University of Engineering and Technology, commonly known as BUET, is a public university in Bangladesh, which focuses on the study of engineering and architecture. Founded in 1912, it is the oldest institution for the study of engineering, architecture and urban planning in Bangladesh.
+    </string>
+
+    <string name="buet_admission">
+        Bangladesh University of Engineering and Technology, commonly known as BUET, is a public university in Bangladesh, which focuses on the study of engineering and architecture. Founded in 1912, it is the oldest institution for the study of engineering, architecture and urban planning in Bangladesh.
+    </string>
+
+
+    <string-array name="private_university">
+        <item> BRAC </item>
+        <item> IUBAT </item>
+        <item> DIU </item>
+        <item> NSU </item>
+    </string-array>
+
+
+    <string name="brac_about">
+        Since its inception in 2001, BRAC University has become one of the most reputed educational institutions in Bangladesh. We have focused on generating new knowledge and promoting critical thinking amongst our students, graduating more than 7,000 young men and women during this time. At present, the total number of students is around 8,000.
+
+Our goal at BRAC University is not only to provide the highest quality teaching in the region, but also to inculcate the values essential for tomorrows leaders. Through a liberal education, we endeavour to produce graduates with the attributes needed to achieve personal success and make a valuable contribution to society. Our talented and dedicated faculty play a critical role in both these processes.
+
+I am pleased to report that the construction of the new University campus, comprising a 14-storey building of 17 lakh square feet on 5 acres of land, is well under way. We hope to relocate by mid-2020.
+    </string>
+
+    <string name="brac_department">
+        Department of Architecture,
+Economics And Social Sciences,
+Department of English and Humanities,
+Department Mathematics and Natural Sciences,
+Department of Pharmacy,
+Department of Computer science and engineering,
+    </string>
+
+    <string name="brac_admission">
+        Prescribed application form is available at the admission office on payment of Tk. 1,500 or applicant should apply online at (admissions.bracu.ac.bd). Click Here for detail information about online application.
+
+Completed application form along with photocopies of all academic mark-sheets and certificates are to be submitted in the admission office of BRAC University. Up to 100% tuition fee waiver to those who obtained GPA of 5.0 (without 4 subject) in SSC and HSC from Science, Arts and Commerce groups or have 7 A s in O Levels (in one sitting) and 3 As in A Levels. Brac university undergraduate apply: Minimum GPA of 3.5 in SSC and HSC separately and a total GPA 8.0.
+
+Minimum GPA of 2.5 in O-Levels in five subjects and A-Levels in two subjects and total GPA 6.0 according to BRAC University scale (A=5, B=4, C=3 and D=2). Subjects with E Grade will not be considered.
+
+Candidates who have completed higher secondary education (12 years of schooling) under a system different from SSC  HSC or O A-Levels will have to get approval of the Admission Committee of the University.
+
+Candidates who have passed from abroad have to submit verified/attested copies of previous academic documents from their institute/Foreign Ministry  Equivalence Certificate from Secondary  Higher Secondary Education Board, Dhaka.
+
+All eligible candidates are required to take the admission test.
+    </string>
+
+    <string name="iubat_about">
+        International University of Business Agriculture and Technology is the first non-government university established in Bangladesh. The initial planning began in 1989 and the university was established in 1991. Degree programs started in 1992 with agreement with Assumption University of Bangkok, Thailand. IUBAT now operates as a government approved university under the Non-Government University Act of 1992.
+
+The overall mission of IUBAT is human resources development through appropriate teaching, training and guidance as well as creation of knowledge conducive to socio-agro- economic development of developing societies in general and that of Bangladesh in particular. This overall mission is being attained through offering courses and curricula relating to various aspects of knowledge as well as providing opportunities for individuals to acquire skill and relevant experience in the chosen field of specialization. Besides, the University provides opportunities for promotion of scholasticism through research in different subject areas and application of knowledge in the context of Bangladesh.
+    </string>
+
+    <string name="iubat_department">
+        College of Business Administration (CBA): CBA has been accepted as a Member of Graduate Management Admission Council of United States[3].
+College of Engineering And Technology (CEAT).
+College of Nursing (CN) (Accredited by Bangladesh Nursing Council).
+College of Arts and Sciences (CAAS).
+College of Tourism and Hospitality Management (CTHM).
+    </string>
+
+    <string name="iubat_admission">
+        A candidate seeking admission to a program should apply in prescribed form for admission with a passport size colored photograph. The bulletin and application form cost Tk. 500 and is available from the IUBAT University Admissions office. The bulletin and application form is available through mail for Tk.550. Non-resident or international applicant is required to send US$15 to receive the bulletin and application form. However, admission can be processed through Initial Admission Form which is made available free of charge. After acceptance and payment of admission fees, the prescribed form is to be filled in by a candidate, if not done earlier. There is an application processing fee of Tk. 4000 for local students and this is collected from the admitted students only. Admission processing charge for international students is US $ 30.
+
+There is no charge for application form and brochure of certificate courses. Form and information for admission to certificate courses can be obtained in person or by mail from IUBAT University Admissions Office.
+    </string>
+
+    <string name="diu_about">
+        Dhaka International University or DIU is a non-government institution in Dhaka, Bangladesh. It is one of the top 20 general private universities in Bangladesh. The university was established on 7 April 1995 by the Private University Act 1992.
+
+    List of Universities
+    Top Universities
+    News
+    Entertainment
+    Career
+    Directory
+    Courses
+
+StudyBarta.Com
+StudyBarta.Com
+
+Explore Your Career
+
+    Admission
+    Global Opportunities
+    Universities
+    Colleges
+    Ranking
+    Schools
+    Institutes
+    India
+    Study Abroad
+    Bangla News
+
+Dhaka International University
+WPAdmin 23rd February 2017 Dhaka International University2017-02-23T10:37:10+00:00 Private Universities
+Dhaka International University
+
+Dhaka International University or DIU is a non-government institution in Dhaka, Bangladesh. It is one of the top 20 general private universities in Bangladesh. The university was established on 7 April 1995 by the Private University Act 1992.
+
+At present, the university has more than 6,000 students enrolled on merit basis in different departments. At present there are about 540 students in the department of English. The Department of English offers four programs to its students. Besides a 4-year Bachelor degree in both day and evening shifts, there is a 1-year Masters Program as well as a 2.5-year Masters Program. The Department of English has undertaken to foster the transformation of individual students and the country as a whole through educational and research facilities responding to the increased demand of the day on the English language.
+    </string>
+
+    <string name="diu_department">
+            Faculty of Science  Information Technology,
+        Department of Computer Science and Engineering (CSE),
+        Department of Software Engineering (SWE),
+        Department of Multimedia  Creative Technology (MCT),
+        Department of General Educational Development (GED),
+        Department of Environmental Science and Disaster Management (ESDM),
+        Department of Computing and Information System (CIS),
+    Faculty of Business  Entrepreneurship,
+        Department of Business Administration (BA),
+        Department of Commerce,
+        Department of Real Estate (RE),
+        Department of Tourism  Hospitality Management (THM),
+        Department of Innovation and Entrepreneurship (IE),
+    Faculty of Humanities  Social Science,
+        Department of English,
+        Department of Law ,
+        Department of Journalism  Mass Communication (JMC),
+        Department of Development Studies (DS),
+    Faculty of Engineering,
+        Department of Electronics and Telecommunication Engineering (ETE) ,
+        Department of Textile Engineering (TE),
+        Department of Electrical and Electronic Engineering (EEE),
+        Department of Architecture,
+        Department of Civil Engineering (CE),
+    Faculty of Applied Health Science,
+        Department of Pharmacy,
+        Department of Nutrition and Food Engineering (NFE),
+        Department of Public Health (PH),
+
+    </string>
+
+    <string name="diu_admission">
+        Prescribed application form is available in the admission office of Daffodil International University on payment of Tk. 500 only.
+
+Completed application form along with four copies passport size and three copies stamp size photo, photocopies of all academic marksheets and certificates are to be submitted to the admission office. Candidates must have to sit for admission test.  Scholarship based on Need, Merit, Female, Ethnic Minority, Freedom fighters ward, Siblings, Physically Handicapped students
+* DIU provides free laptop  on campus Wifi facilities for students Students waiting for HSC results may also apply.
+DIU provides free laptop on campus Wifi facilities for student.
+Scholarship based on Need, Merit, Female, Ethnic Minorrity, Freedom fighters ward, Siblings, Physically Handicapped students.
+    </string>
+
+    <string name="nsu_about">
+        The universitys campus is located at Bashundhara in Dhaka. It is the largest private university in Bangladesh, in terms of both student population and campus size. The foundation of the campus was laid on 30 January 2003 by Begum Khaleda Zia.[5] Classes started in the permanent campus from 9 June 2009.[6]
+NSU front view
+
+This campus can serve up to 20,000 students with amenities and facilities. It contains six buildings with three basements on six acres of land having 665,000 square feet of floorspace
+    </string>
+    <string name="nsu_department">
+        School of Engineering  Physical Sciences
+
+    Department of Architecture
+    Department of Civil and Environmental Engineering
+    Department of Electrical and Computer Engineering[13]
+    Department of Computer Science and Engineering
+
+School of Humanities  Social Sciences
+
+    Department of English  Modern Languages
+    Department of History  Philosophy
+    Department of Law
+    Department of Political Science  Sociology
+
+School of Health  Life Sciences
+
+    Department of Biochemistry  Microbiology
+    Department of Environmental Science and Management
+    Department of Pharmaceutical Sciences
+    Department of Public Health
+    </string>
+
+    <string name="nsu_admission">
+         Application forms are available for Tk. 1,000 from any Bank in favor of North south University. Southeast Bank, UCBl,DBBL,Bank Asia,One Bank, NCCBl IFIC Bank Bashundhara Branch or may be downloaded from the NSU website: www.northsouth.edu  submitted with a payment of Tk. 1,000.
+Candidates with GCE O-A levels have to pay certification verification fee Tk. 500/- per page to NSU Accounts.
+ Applicants are requested to show original  attached the following documents at the time of submission of the application form.
+
+(a) Original HSC Registration Card with one copy photocopy or original passport with a copy.
+(b) Four copies of passport size photographs, three are glued and stapled in the form.
+
+© Photocopies of the following:
+(1) SSC/ O' Level marksheet (mandatory)
+(2) SSC/ O' Level certificate (mandatory)
+(3) HSC/ A' Level marksheet (mandatory)
+(4) HSC/ A' Level certificate (if available)
+(5) Two letter of Recommendations/ Testimonials from Teachers/ Head master/ Principal (if available).
+    </string>
+
+
+    <string-array name="national_university">
+        <item>Dhaka Commerce Collage</item>
+        <item> Dhaka Collage </item>
+        <item> Dhaka City Collage </item>
+        <item> Eden Mohila Collage Collage </item>
+
+
+    </string-array>
+
+
+    <string name="dcom_about">
+        Dhaka Commerce College (Bengali: ঢাকা কমার্স কলেজ) is a masters level college in Mirpur, Dhaka, Bangladesh. Established in 1989, it was the first college in Dhaka city to specialise in commerce.[1] Students receive education both in Bangla and English medium. The main founder of this college is professor Kazi Nurul Islam Faruky.
+
+The chairman of the college is professor Shafiq Ahmed Siddique.
+    </string>
+
+    <string name="dcom_department">
+            Department of Accounting
+    Department of Bengali
+    Department of Commercial Geography
+    Department of Economics
+    Department of English
+    Department of Finance
+    Department of Management Studies
+    Department of Marketing
+    Department of Secretarial and Office Management
+    Department of Statistics and Computer
+    </string>
+    <string name="dcom_admission">
+        Dhaka Commerce College (DCC) is well reputed private college established on 1 July 1989 at Mirpur, Dhaka of Bangladesh. Dhaka Commerce College (DCC) has awarded as the best College for twice by the People’s Republic of Bangladesh.  More than 80% of the students of Dhaka Commerce College achieve first class in Honours and Masters examinations under National University.
+After starting of DCC academic activities, If consider the HSC result Dhaka Commerce College was placed in the top 10 colleges in the country. Not only that but olso, National University (NU) of Bangladesh listed the college in top five colleges as the best among 685 in the country for its outstanding performances.
+
+    </string>
+
+    <string name="dcolage_about">
+        Dhaka College is one of Bangladeshs most important as well as these earliest higher-secondary educational institutions. It was established by James Taylor (civil surgeon at Dhaka) in July 1835 as an English Seminary School (at present Dhaka Collegiate School). Taylor organized a local Committee of Public Instruction with the help of district magistrate Mr. Grant. The school building was built partly out of public donations on the grounds of an English factory. On July 18, 1841, the school got their approval of the college. On November 20, 1841, the foundation stone of the college was placed and buildings were completed in 1846, with the aid of the Bishop of Calcutta. In the first graduating class there were both Muslim and Hindu students, as well as a number of foreign students, mainly from Armenia and Portugal.
+
+The college was relocated in 1873 to a large building to the east of Victoria Park in order to accommodate the physics and chemistry laboratories. In 1908, it shifted to Curzon Hall while the science departments were housed in the present chemistry building of the University of Dhaka and two new halls were built there as well. In 1921, the college shifted again to the old High Court Building as University of Dhaka was established there. During the Second World War it moved to Siddique Bazar in purana Dhaka. Finally the college found its own permanent campus on Mirpur Road, Dhanmondi near Dhaka New Market since 1955.
+    </string>
+
+    <string name="dcolage_department">
+
+
+    Department of English
+    Department of Accounting
+    Department of Management
+    Department of Bengali
+    Department of Botany
+    Department of Chemistry
+    Department of Economics
+    Department of Geography Environment
+    Department of History
+    Department of Islamic History and Culture
+    Department of Arabic  Islamic Studies
+    Department of Library  Information Science
+    Department of Mathematics
+    Department of Marketing
+    Department of Political Science
+    Department of Psychology
+    Department of Philosophy
+    Department of Physics
+    Department of Statistics
+    Department of Sociology
+    Department of Zoology
+    </string>
+
+    <string name="dcolage_admission">
+        Dhaka College HSC Admission Notice Result 2018 Download. Dhaka College Admission Notice for educational year 2018-2019 of HSC 1st year has been announced on 13th May (Sunday) 2018. Dhaka College HSC Admission 2018 application form fill up, submit  application charge paid process will be completed by online  Teletalk pre paid mobile. Attracted applicants have to SMS to Dhaka College for application on 13th June (Sunday) 2018 to 24th May (Thursday) 2018. But those students will recheck their result SSC 2018  those students results will changed, they can SMS till 5st June (Sunday) 2018.
+    </string>
+
+    <string name="dcity_about">
+        Dhaka City College (DCC) is one of the oldest colleges in Bangladesh. It is located at Dhanmondi, kudrat-e-khuda road in Dhaka city. It offers graduation and post graduation course in majors and HSC. The college is affiliated with the National University.
+
+Dhaka City College was established in 1957 under the patronage of educationists and social workers. The classes of the college were held at West End High School and thereafter at Dhaka College. In 1970 the college was shifted to Dhanmondi Road No. 2 at its own premises.
+
+Among those who contributed to the establishment of this institution, the names of Khan Bahadur Abdur Rahman and Ataur Rahman Khan, former Prime Minister of Bangladesh. Khaney Alom Khan, former Chairman of the Governing Body arranged financial assistance for the development of the college buildings while he was the Divisional commissioner of Dhaka Division.
+
+The college principal is Mr. Shahjahan Khan. He joined this college as lecturer in Accounting. The chairman of the governing body is Syed Modasser Ali.
+    </string>
+
+    <string name="dcity_depatment">
+            Marketing(Under National University)
+    Finance and Banking(Under Na
+    English(Under National University)
+    Economics(Under National University)
+    Physics(Under National University)
+    Chemistry(Under National University)
+    BBA - Professional(Under National University)
+    Business Studies
+    Science Discipline
+    Arts Discipline
+    Computer Science and Engineering- Professional (Under National University)
+    </string>
+
+    <string name="dcity_admission">
+        Dhaka City College HSC Admission Result Notice 2018. Dhaka City College HSC Admission Result Notice 2018 is for academic session 2018-2019. Online  SMS application Process starts from 13th May 2018. More than 3571 students will get chance in HSC admission academic sessions 2018-2019. Only Bangle medium students can get admission. Now only successfully SSC passed students for session 2016, 2017  2018 can apply for HSC Admission 2018.
+    </string>
+
+    <string name="eden_about">
+        Eden Mohila College (Bengali: ইডেন মহিলা কলেজ), generally called Eden College (Bengali: ইডেন কলেজ), is a womens college in Azimpur, Dhaka, Bangladesh. It was established in 1873 in the Farashganj area of Dhaka. In 1878 the school was named after Ashley Eden, Lieutenant Governor of Bengal.[1] The college moved to its present premises in 1963.[1] It is affiliated with the University of Dhaka.
+    </string>
+    <string name="eden_admission">
+        Dhaka University 7 affiliated college admission test for the academic year 2018-2019 of Honours 1st year apply process will be starting on 25th September (Tuesday) 2018.  The process will be continuing till 25th October (Thursday) 2018. Admission test apply process will be done by online.
+
+On 31st August (Thursday) 2018 at noon, that news was published by Public Relation department of Dhaka University. It was done by a press release. Before that on 30th August (Wednesday) 2018 this decision was taken by Dhaka University Vice Chancellor Dr. A.A.M.S. Arefin Siddque.
+    </string>
+
+
+    <string name="tips_du_bangla">
+Analyzing the questions of university admission tests in past years, it has been found that several questions come from prose and poems. In that case, it is necessary to know about the main issues of prose, the identity of prose writer, his literary works, biography etc. So also for poetry. Novel Padma Nadir Majhi or drama Bloody desert from parts of the question for parebyakarana language, Bengali language, grammar, words, Repeater, Christmas and Easter, joints, division, number, word contraction, Idioms, prefix, suffix important issues. They need good practice.
+    </string>
+
+    <string name="tips_du_english">
+        In the university admission tests, the emphasis is placed on the grammar in English. In this case, parts of speech, article, tense, voice, narration, correction, right form of verbs, translation, synonyms, antonyms, transformation of sentences, joining sentence, comprehension etc. should be read well. As well as English poets and writers, especially those whose writings are in the HSC syllabus, they should also keep in mind the details of their lives and literary works, writing topics, quotes etc.
+    </string>
+
+    <string name="tips_jogonnath_viba">
+        Some tips about the viva of IBA-JU
+
+Sobar e janar kotha tao arekbar boli, admission test er 100 marks er count hoy 40 SSC r HSC er result er theke, 55 written exam r baki 5 viva. Written e jara selected tader congrats, jodio ei ovinondon modhur lagar kotha na vivar tension e, Jodi na hoy!!
+IBA-JU te admission test viva add hoise last year theke and nijer r baki der experience theke jani eta niye asole tension er kichu nai. Tension thake ‘ki jigges korbe’, ‘jodi na pari’ ei type jinis gula niye. Sei tension komanor jonnoi ei post.
+
+Ki jigges kore: emon sob question normally jigges korte pare jeta asole tumi e sobceye valo jano. Mane tomar personal question. Dekha hoy ei question gular answer kivabe smartly dite parteso. And obossoi smart hote giye over smart hoyar try korona, setar result ulta hobe. Echara desh bidesher recent topic gular upor idea rakhte paro, egula jigges korle jeno matha culkate na hoy. Jai jigges koruk normally handle korar try koro.
+
+Dress code: vivar dress ekkebare formal hobe.
+Chelera shirt, pant, shoe r tie. Shirt halka colour howa valo. Setar sathe manay emon pant, tie r shoe. Tie jeno beshi boro ba choto na hoye thake. Belt touch kore thakata tie er normal length.
+Meye der salwar kamij porlei hobe. Halka colour r simple design howa valo.
+Vivar somoy nervous hoyo na, ja paro confidently bolo, ja paro na ta sorry bole boledao paro na.
+
+Hope you will get success and become a part of the 23rd batch of IBA-JU. We are waiting to welcome you to the IBA-JU family.
+
+P.S. Usually banglish e likhi na,but ekta page e bangla support kore emon device sobar nao thakte pare. Karo porte problem hole my sincerest apology.
+    </string>
+
+
+</resources>
